@@ -1,11 +1,5 @@
-/*Jisoo Park
- * CIS 2168
- * Josephus Assignment
- * 09/25/2018
- */
-
-
-
+//Jisoo Park
+ 
 package JoesphusAssignment;
 
 import java.util.Iterator;
