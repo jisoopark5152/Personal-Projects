@@ -1,3 +1,5 @@
+// Jisoo Park
+
 public class EightQueens {
 
 public int[][] Queenssolution;
