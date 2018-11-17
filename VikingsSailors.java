@@ -1,7 +1,4 @@
 /* Jisoo Park
- * 03/15/18
- * CIS 1068
- * Assignment #7
  * To program a game using a set of codes to play a game Vikings and Sailors 
  * used to play, called Hemnesbrim.
  */
