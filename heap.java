@@ -1,8 +1,4 @@
-/*Jisoo Park
- * CIS 2168
- * TimedLab#2
- * 10/25/18
- */
+//Jisoo Park
 
 package heap;
 
