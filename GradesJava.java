@@ -1,6 +1,4 @@
 /*Jisoo Park
- * 10/01/17
- * CIS 1068
  * This program will calulate a student's grade with the usage of if else
 statements to avoid bad numeric values that might cause an error.
  */
