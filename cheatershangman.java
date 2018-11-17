@@ -1,3 +1,5 @@
+// Jisoo Park
+ 
 package cheatershangman;
 
 import java.io.File;
