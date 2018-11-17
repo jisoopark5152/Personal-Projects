@@ -1,8 +1,5 @@
-/* Jisoo Park
- * CIS 2168 
- * Andrew Rosen
- * September 13, 2018
- */
+// Jisoo Park
+
 
 
 import java.util.ArrayList;
